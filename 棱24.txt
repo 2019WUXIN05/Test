@@ -1,0 +1,24 @@
+DA       FLE'L'U'LEL'UF'
+AD       FU'LE'L'ULEL'F'
+DB       M2U'MU2M'U'M2
+BD       M2UMU2M'UM2
+DQ      lUL'U'M'ULU'L'
+QD      LUL'U'MULU'l
+DM     SR'FRS'R'F'R
+MD     R'FRSR'F'RS'
+EA       U'MUM'U2MUM'U
+AE       U'MUM'U2MU'M'U
+EB       LF'L'S'LFL'S
+BE       S'LF'L'SLFL
+EQ      L'U'LUM'U''L'Ul
+QE      l'U'LUMU'L'UL
+EM     MUM'U2MUM'
+ME     MU'M'U2MU'M'
+AB     R2U'SR2S'R2UR2    
+BA    R2USR2S'R2U'R2
+AM   
+MA
+QB
+BQ
+QM
+MQ
